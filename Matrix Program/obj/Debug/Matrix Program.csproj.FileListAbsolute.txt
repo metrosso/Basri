@@ -1,0 +1,10 @@
+c:\users\mert\source\repos\Matrix Program\Matrix Program\bin\Debug\Matrix Program.exe.config
+c:\users\mert\source\repos\Matrix Program\Matrix Program\bin\Debug\Matrix Program.exe
+c:\users\mert\source\repos\Matrix Program\Matrix Program\bin\Debug\Matrix Program.pdb
+c:\users\mert\source\repos\Matrix Program\Matrix Program\obj\Debug\Matrix Program.csprojResolveAssemblyReference.cache
+c:\users\mert\source\repos\Matrix Program\Matrix Program\obj\Debug\Matrix_Program.Form1.resources
+c:\users\mert\source\repos\Matrix Program\Matrix Program\obj\Debug\Matrix_Program.Properties.Resources.resources
+c:\users\mert\source\repos\Matrix Program\Matrix Program\obj\Debug\Matrix Program.csproj.GenerateResource.Cache
+c:\users\mert\source\repos\Matrix Program\Matrix Program\obj\Debug\Matrix Program.csproj.CoreCompileInputs.cache
+c:\users\mert\source\repos\Matrix Program\Matrix Program\obj\Debug\Matrix Program.exe
+c:\users\mert\source\repos\Matrix Program\Matrix Program\obj\Debug\Matrix Program.pdb
